@@ -13,6 +13,7 @@ h1 {
 }
 
 #logo_atletico {
-    width: 2rem;
-    height: 2rem;
+    margin-top: 2rem;
+    width: 50%;
+    height: 50%;
 }
